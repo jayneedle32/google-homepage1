@@ -1,0 +1,15 @@
+
+
+.header li {
+	display: inline;
+    float: right;
+    text-align: right;
+    margin-left: 20px;
+    line-height: 50px;
+}
+
+.banner {
+	text-align: center;
+	clear:both;
+}
+
